@@ -16,21 +16,24 @@ All results, preprocessing scripts, inference pipelines, and comparison notebook
 
 ##  Repository Structure
 
+<details> <summary><strong>Click to expand the full project structure</strong></summary> <br>
 pallet-segmentation-detection-pipeline/
 │
 ├── Code/
 │   ├── Comparing_Models_Seg_ObjDet.ipynb
 │   ├── GROUND_SEGMENTATION_EFFICIENTNETB3_*.ipynb
 │   ├── TWO_PALLET_DETECTION_YOLOv8.ipynb
-│   ├── deeplab_efficientdet_pipeline.py
+│   └── deeplab_efficientdet_pipeline.py
 │
 ├── Documents/
 │   ├── CIS583_Deep_Learning_Project_Report.pdf
 │   ├── CIS583_Deep_Learning_Project_Slides.pdf
 │   ├── Additional_Project_Notes.pdf
-│   ├── Any_other_supporting_docs.pdf
+│   └── Any_other_supporting_docs.pdf
 │
 └── README.md
+
+</details>
 
 ##  Clone repository:
 git clone https://github.com/1Mike-e/pallet-segmentation-detection-pipeline.git
