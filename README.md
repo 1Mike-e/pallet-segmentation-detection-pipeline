@@ -16,7 +16,6 @@ All results, preprocessing scripts, inference pipelines, and comparison notebook
 
 ##  Repository Structure
 
-<details> <summary><strong>Click to expand the full project structure</strong></summary> <br>
 pallet-segmentation-detection-pipeline/
 │
 ├── Code/
@@ -32,8 +31,6 @@ pallet-segmentation-detection-pipeline/
 │   └── Any_other_supporting_docs.pdf
 │
 └── README.md
-
-</details>
 
 ##  Clone repository:
 git clone https://github.com/1Mike-e/pallet-segmentation-detection-pipeline.git
