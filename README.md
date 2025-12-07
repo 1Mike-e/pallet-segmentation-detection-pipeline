@@ -18,10 +18,18 @@ All results, preprocessing scripts, inference pipelines, and comparison notebook
 
 pallet-segmentation-detection-pipeline/
 │
-├── Comparing_Models_Seg_ObjDet.ipynb
-├── GROUND_SEGMENTATION_EFFICIENTNETB3_*.ipynb
-├── TWO_PALLET_DETECTION_YOLOv8.ipynb
-├── deeplab_efficientdet_pipeline.py
+├── Code/
+│   ├── Comparing_Models_Seg_ObjDet.ipynb
+│   ├── GROUND_SEGMENTATION_EFFICIENTNETB3_*.ipynb
+│   ├── TWO_PALLET_DETECTION_YOLOv8.ipynb
+│   ├── deeplab_efficientdet_pipeline.py
+│
+├── Documents/
+│   ├── CIS583_Deep_Learning_Project_Report.pdf
+│   ├── CIS583_Deep_Learning_Project_Slides.pdf
+│   ├── Additional_Project_Notes.pdf
+│   ├── Any_other_supporting_docs.pdf
+│
 └── README.md
 
 ##  Clone repository:
